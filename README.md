@@ -2,7 +2,7 @@
 - 👀 I’m interested in Developing
 - 🌱 I’m currently learning BSCS
 - 💞️ I’m looking to collaborate on javascript
-- 📫 How to reach me ...
+- 📫 hiraaliakbar7@gmail.com
 
 <!---
 HiraAli512/HiraAli512 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
